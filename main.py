@@ -5,8 +5,8 @@ import time
 
 MY_LAT = 28.63099
 MY_LONG = 77.21715
-USER = "sampleudemy2@gmail.com"
-PASSWORD = "ayrrtrqigzcrfzvu"
+USER = "mail"
+PASSWORD = "password"
 
 
 def is_loc():
